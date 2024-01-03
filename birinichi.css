@@ -1,0 +1,35 @@
+.main-header-logo img {
+    width: 64px;
+
+}
+.main-navigation {
+    display: inline-block;
+    vertical-align: middle;
+}
+.main-nav-li {
+    display: inline-block;
+    padding: 10px;
+}
+.main-header-logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+.main-nav-li a{
+    color: #05364d;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.main-nav-li a:hover{
+    color:fuchsia
+}
+
+.main-nav-li:active a{
+    color:darkred
+}
+body {
+    font-family: sans-serif;
+}
+.container {
+   width: 1140px;
+   margin: 0 auto; 
+}
